@@ -1,32 +1,32 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
-### Category Name 1 
+### Statistical Analysis 
 
-[Project 1 Title](/sample_page)
+[Vacant & Abandoned Homes in Baltimore](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Opioid Crisis Analysis](https://rpubs.com/jspayd/opioid-crisis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Visualization
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Baltimore City Dashboard](https://sites.google.com/view/jspayd-baltimore-city)
+- [Democracy Data Science Hackathon](https://rpubs.com/jspayd/ddsh2022)
+- [Higher Education Data Dashboard](https://rpubs.com/jspayd/IPEDS)
 
 ---
 
+### Machine Learning
+
+- [Purdue School of Management Data Analytics for Good Case Competition](http://example.com/)
+
+
+---
 
 
 
