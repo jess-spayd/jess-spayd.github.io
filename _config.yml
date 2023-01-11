@@ -1,7 +1,10 @@
 title: Jess Spayd # your name (or website title) here
 logo: "images/jess-roundframe.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
+ 
+ <p align="center">
+ 
+ <br><br>
   Data Analyst | Career Changer 
   <br><br>
 
@@ -20,5 +23,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 #    <img src="https://cdn-icons-png.flaticon.com/512/536/536452.png" alt="Check out my Github" width="50" height="50">
 #  </a>
   
+ </p>
+ 
 theme: jekyll-theme-minimal
 google_analytics: G-FMDEEMSL97 # your Google Analytics tracking ID here
