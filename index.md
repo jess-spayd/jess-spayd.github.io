@@ -5,11 +5,11 @@
 ### Statistical Analysis 
 
 <a target="_blank" href="https://rpubs.com/jspayd/vacant-homes-baltimore">
-  <img src="images/vacant-homes-baltimore.png?raw=true" alt="Vacant & Abandoned Homes in Baltimore" width="320" height="180" style="border-radius:10%">
+  <img src="images/vacant-homes-baltimore.png?raw=true" alt="Vacant & Abandoned Homes in Baltimore" width="320" height="180">
 </a>
 
 <a target="_blank" href="https://rpubs.com/jspayd/opioid-crisis">
-  <img src="images/opioid-crisis-analysis.png?raw=true" alt="Opioid Crisis Analysis" width="320" height="180" style="border-radius:10%">
+  <img src="images/opioid-crisis-analysis.png?raw=true" alt="Opioid Crisis Analysis" width="320" height="180">
 </a>
 
 ---
@@ -17,15 +17,15 @@
 ### Data Visualization
 
 <a target="_blank" href="https://sites.google.com/view/jspayd-baltimore-city/home/baltimore-city-dashboard">
-  <img src="images/baltimore-city-dashboard.png?raw=true" alt="Baltimore City Dashboard" width="320" height="180" style="border-radius:10%">
+  <img src="images/baltimore-city-dashboard.png?raw=true" alt="Baltimore City Dashboard" width="320" height="180">
 </a>
 
 <a target="_blank" href="https://rpubs.com/jspayd/ddsh2022">
-  <img src="images/democracy-data-science-hackathon.png?raw=true" alt="Democracy Data Science Hackathon" width="320" height="180" style="border-radius:10%">
+  <img src="images/democracy-data-science-hackathon.png?raw=true" alt="Democracy Data Science Hackathon" width="320" height="180">
 </a>
 
 <a target="_blank" href="https://rpubs.com/jspayd/IPEDS">
-  <img src="images/higher-education-data-dashboard.png?raw=true" alt="Higher Education Data Dashboard" width="320" height="180" style="border-radius:10%">
+  <img src="images/higher-education-data-dashboard.png?raw=true" alt="Higher Education Data Dashboard" width="320" height="180">
 </a>
 
 ---
