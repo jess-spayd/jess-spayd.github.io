@@ -3,12 +3,14 @@ logo: "images/jess-roundframe.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Data Analyst | Career Changer 
-  <br><br><br><br>
+  <br><br><br>
 
   
   <a target="_blank" href="mailto:jspayddatasci@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="Email me" width="50" height="50">
   </a>
+  
+  <br>
   
     <a target="_blank" href="https://www.linkedin.com/in/jess-spayd/">
     <img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="Connect with me on LinkedIn" width="50" height="50">
