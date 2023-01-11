@@ -8,6 +8,10 @@
   <img src="images/vacant-homes-baltimore.png?raw=true" alt="Vacant & Abandoned Homes in Baltimore">
 </a>
 
+img {
+  border-radius: 15px;
+}
+
 <a target="_blank" href="https://rpubs.com/jspayd/opioid-crisis">
   <img src="images/opioid-crisis-analysis.png?raw=true" alt="Opioid Crisis Analysis">
 </a>
