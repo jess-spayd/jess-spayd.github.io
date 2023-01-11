@@ -5,15 +5,11 @@
 ### Statistical Analysis 
 
 <a target="_blank" href="https://rpubs.com/jspayd/vacant-homes-baltimore">
-  <img src="images/vacant-homes-baltimore.png?raw=true" alt="Vacant & Abandoned Homes in Baltimore">
+  <img src="images/vacant-homes-baltimore.png?raw=true" alt="Vacant & Abandoned Homes in Baltimore" style= border-radius: 15px>
 </a>
 
-img {
-  border-radius: 15px;
-}
-
 <a target="_blank" href="https://rpubs.com/jspayd/opioid-crisis">
-  <img src="images/opioid-crisis-analysis.png?raw=true" alt="Opioid Crisis Analysis">
+  <img src="images/opioid-crisis-analysis.png?raw=true" alt="Opioid Crisis Analysis" style= border-radius: 15px>
 </a>
 
 ---
@@ -21,15 +17,15 @@ img {
 ### Data Visualization
 
 <a target="_blank" href="https://sites.google.com/view/jspayd-baltimore-city/home/baltimore-city-dashboard">
-  <img src="images/baltimore-city-dashboard.png?raw=true" alt="Baltimore City Dashboard">
+  <img src="images/baltimore-city-dashboard.png?raw=true" alt="Baltimore City Dashboard" style= border-radius: 15px>
 </a>
 
 <a target="_blank" href="https://rpubs.com/jspayd/ddsh2022">
-  <img src="images/democracy-data-science-hackathon.png?raw=true" alt="Democracy Data Science Hackathon">
+  <img src="images/democracy-data-science-hackathon.png?raw=true" alt="Democracy Data Science Hackathon" style= border-radius: 15px>
 </a>
 
 <a target="_blank" href="https://rpubs.com/jspayd/IPEDS">
-  <img src="images/higher-education-data-dashboard.png?raw=true" alt="Higher Education Data Dashboard">
+  <img src="images/higher-education-data-dashboard.png?raw=true" alt="Higher Education Data Dashboard" style= border-radius: 15px>
 </a>
 
 ---
@@ -37,7 +33,7 @@ img {
 ### Machine Learning
 
 <a target="_blank" href="https://www.kaggle.com/jessspayd">
-  <img src="images/data-analytics-for-good-competition.png?raw=true" alt="Purdue School of Management Data Analytics for Good Case Competition">
+  <img src="images/data-analytics-for-good-competition.png?raw=true" alt="Purdue School of Management Data Analytics for Good Case Competition" style= border-radius: 15px>
 </a>
 
 
