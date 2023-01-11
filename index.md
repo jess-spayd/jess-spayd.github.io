@@ -4,11 +4,9 @@
 
 ### Statistical Analysis 
 
-[Vacant & Abandoned Homes in Baltimore]([/sample_page](https://rpubs.com/jspayd/vacant-homes-baltimore))
+- [Vacant & Abandoned Homes in Baltimore]([/sample_page](https://rpubs.com/jspayd/vacant-homes-baltimore))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Opioid Crisis Analysis](https://rpubs.com/jspayd/opioid-crisis)
+- [Opioid Crisis Analysis](https://rpubs.com/jspayd/opioid-crisis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
