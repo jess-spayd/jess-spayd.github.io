@@ -5,7 +5,7 @@
 ### Statistical Analysis 
 
 <a target="_blank" href="https://rpubs.com/jspayd/vacant-homes-baltimore">
-  <img src="images/vacant-homes-baltimore.png?raw=true" alt="Vacant & Abandoned Homes in Baltimore" width="320" height="180">
+  <img src="images/vacant-homes-baltimore.png?raw=true" alt="Vacant & Abandoned Homes in Baltimore" width="320" height="180" style="border-radius: 10% 10%">
 </a>
 
 <a target="_blank" href="https://rpubs.com/jspayd/opioid-crisis">
