@@ -14,7 +14,7 @@
 
 ### Data Visualization
 
-- [Baltimore City Dashboard](https://sites.google.com/view/jspayd-baltimore-city)
+- [Baltimore City Dashboard](https://sites.google.com/view/jspayd-baltimore-city/home/baltimore-city-dashboard)
 
 - [Democracy Data Science Hackathon](https://rpubs.com/jspayd/ddsh2022)
 
