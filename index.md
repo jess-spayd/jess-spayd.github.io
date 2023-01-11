@@ -4,7 +4,7 @@
 
 ### Statistical Analysis 
 
-[Vacant & Abandoned Homes in Baltimore](/sample_page)
+[Vacant & Abandoned Homes in Baltimore]([/sample_page](https://rpubs.com/jspayd/vacant-homes-baltimore))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -24,10 +24,6 @@
 ### Machine Learning
 
 - [Purdue School of Management Data Analytics for Good Case Competition](http://example.com/)
-
-
----
-
 
 
 ---
