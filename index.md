@@ -25,7 +25,7 @@
 </a>
 
 <a target="_blank" href="https://rpubs.com/jspayd/IPEDS">
-  <img src="images/higher-education-data-dashboard.png?raw=true" alt="Higher Education Data Dashboard" width="320" height="180">
+  <img src="images/5.png?raw=true" alt="Higher Education Data Dashboard" width="320" height="180">
 </a>
 
 ---
