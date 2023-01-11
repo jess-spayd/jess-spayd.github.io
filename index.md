@@ -6,6 +6,7 @@
 
 - [Vacant & Abandoned Homes in Baltimore]([/sample_page](https://rpubs.com/jspayd/vacant-homes-baltimore))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 - [Opioid Crisis Analysis](https://rpubs.com/jspayd/opioid-crisis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -14,7 +15,9 @@
 ### Data Visualization
 
 - [Baltimore City Dashboard](https://sites.google.com/view/jspayd-baltimore-city)
+
 - [Democracy Data Science Hackathon](https://rpubs.com/jspayd/ddsh2022)
+
 - [Higher Education Data Dashboard](https://rpubs.com/jspayd/IPEDS)
 
 ---
