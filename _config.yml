@@ -2,16 +2,19 @@ title: Jess Spayd # your name (or website title) here
 logo: "images/jess-roundframe.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
-
+  <br>
   <b>Data Analyst</b> | <b>Career Changer</b>
+  <br>
   <br>
   Jess is currently pursuing a graduate degree in Data Analytics and Policy at Johns Hopkins University. She has professional data experience in non-profit, campaign, and research laboratory settings. Jess is interested in data science for social good.
   <br>
+  <br>
   Jess formerly worked in education and mental health for over a decade. She has a master's degree in counseling and bachelor’s degree in psychology from the College of New Jersey.
+  <br>
   <br>
 
     <a target="_blank" href="https://github.com/jess-spayd">
-    <img src="https://cdn-icons-png.flaticon.com/512/889/889192.png" alt="Check out my Github" width="50" height="50">
+    <img src="https://cdn-icons-png.flaticon.com/512/889/889192.png" alt="Check out my Github" width="25" height="25">
   </a>
   
   <a target="_blank" href="mailto:jspayddatasci@gmail.com">
