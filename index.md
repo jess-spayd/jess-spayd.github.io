@@ -32,7 +32,7 @@
 
 ### Machine Learning
 
-<a target="_blank" href="[https://rpubs.com/jspayd/IPEDS](https://rpubs.com/jspayd/lyrics_classification)">
+<a target="_blank" href="https://rpubs.com/jspayd/lyrics_classification">
   <img src="images/7.png?raw=true" alt="Lyrics Classification" width="320" height="180">
 </a>
 
