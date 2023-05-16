@@ -4,6 +4,10 @@
 
 ### Statistical Analysis 
 
+<a target="_blank" href="https://rpubs.com/jspayd/capstone">
+  <img src="images/8.png?raw=true" alt="Mental Healthcare Access & Health Insurance" width="320" height="180">
+</a>
+
 <a target="_blank" href="https://rpubs.com/jspayd/vacant-homes-baltimore">
   <img src="images/1.png?raw=true" alt="Vacant & Abandoned Homes in Baltimore" width="320" height="180">
 </a>
@@ -34,11 +38,6 @@
 
 <a target="_blank" href="https://rpubs.com/jspayd/lyrics_classification">
   <img src="images/7.png?raw=true" alt="Lyrics Classification" width="320" height="180">
-</a>
-
-
-<a target="_blank" href="https://www.kaggle.com/jessspayd">
-  <img src="images/6.png?raw=true" alt="Purdue School of Management Data Analytics for Good Case Competition" width="320" height="180">
 </a>
 
 ---
