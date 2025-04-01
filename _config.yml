@@ -1,7 +1,10 @@
-title: Jess Spayd # your name (or website title) here
+title: Jess Spayd | Data Scientist # your name (or website title) here
 logo: "images/jess-roundframe.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- 
+
+     <a target="_blank" href="https://jess-spayd.github.io/">
+    <i class="bi bi-house"></i>
+  </a>
   
   <b>Data Scientist</b>
   
