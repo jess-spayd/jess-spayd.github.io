@@ -2,28 +2,7 @@ title: Jess Spayd | Data Scientist # your name (or website title) here
 logo: "images/jess-roundframe.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-     <a target="_blank" href="https://jess-spayd.github.io/">
-    <i class="bi bi-house"></i>
-  </a>
-  
-  <b>Data Scientist</b>
-  
-  <br>
 
-    <a target="_blank" href="https://github.com/jess-spayd">
-    <img src="https://cdn-icons-png.flaticon.com/512/889/889192.png" alt="Check out my Github" width="25" height="25">
-  </a>
-  
-  <a target="_blank" href="mailto:jspayddatasci@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="Email me" width="25" height="25">
-  </a>
-  
-    <a target="_blank" href="https://www.linkedin.com/in/jess-spayd/">
-    <img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="Connect with me on LinkedIn" width="25" height="25">
-  </a>
-  
-
-  
 
  
 theme: jekyll-theme-slate
