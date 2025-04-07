@@ -4,6 +4,10 @@
 
 ### Statistical Analysis 
 
+<a target="_blank" href="https://advanced.jhu.edu/about/on-the-advance/accomplishments-in-action/victory-in-2024-doj-data-challenge-validates-career-move/">
+  <img src="images/0.png?raw=true" alt="Winners of DOJ Data Challenge 2024" width="320" height="180">
+</a>
+
 <a target="_blank" href="https://rpubs.com/jspayd/capstone">
   <img src="images/8.png?raw=true" alt="Mental Healthcare Access & Health Insurance" width="320" height="180">
 </a>
