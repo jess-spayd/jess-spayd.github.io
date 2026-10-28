@@ -19,7 +19,17 @@
 <a target="_blank" href="https://rpubs.com/jspayd/opioid-crisis">
   <img src="images/2.png?raw=true" alt="Opioid Crisis Analysis" width="320" height="180">
 </a>
+---
 
+### Natural Language Processing
+
+<a target="_blank" href="https://bsky.app/profile/bb-sentiment.bsky.social">
+  <img src="images/7.png?raw=true" alt="Bluesky Sentiment Tracker" width="320" height="180">
+</a>
+
+<a target="_blank" href="https://rpubs.com/jspayd/lyrics_classification">
+  <img src="images/7.png?raw=true" alt="Lyrics Classification" width="320" height="180">
+</a>
 ---
 
 ### Data Visualization
@@ -36,13 +46,6 @@
   <img src="images/5.png?raw=true" alt="Higher Education Data Dashboard" width="320" height="180">
 </a>
 
----
-
-### Machine Learning
-
-<a target="_blank" href="https://rpubs.com/jspayd/lyrics_classification">
-  <img src="images/7.png?raw=true" alt="Lyrics Classification" width="320" height="180">
-</a>
 
 ---
 <p class="attribution" style="font-size:11px">"<a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/40261180@N06/3718792512">Lady Gaga</a>" by <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/40261180@N06">Music Trendsetter</a> is licensed under <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse">CC BY-SA 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></a>. </p>
