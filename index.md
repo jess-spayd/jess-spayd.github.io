@@ -24,7 +24,7 @@
 ### Natural Language Processing
 
 <a target="_blank" href="https://bsky.app/profile/bb-sentiment.bsky.social">
-  <img src="images/7.png?raw=true" alt="Bluesky Sentiment Tracker" width="320" height="180">
+  <img src="images/9.png?raw=true" alt="Bluesky Sentiment Tracker" width="320" height="180">
 </a>
 
 <a target="_blank" href="https://rpubs.com/jspayd/lyrics_classification">
